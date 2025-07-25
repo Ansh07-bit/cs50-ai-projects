@@ -18,7 +18,7 @@ This repository contains solutions for Harvard’s CS50 AI Projects:
 
 ---
 
-📁 Folder Structure:
+### 📁 Folder Structure:
 ```markdown
 cs50-ai-projects/
 ├── degrees/
@@ -32,6 +32,7 @@ cs50-ai-projects/
 │   ├── runner.py
 │   └── requirements.txt
 └── README.md
+```
 
 
 ---
