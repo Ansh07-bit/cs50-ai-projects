@@ -21,13 +21,17 @@ This repository contains solutions for Harvard’s CS50 AI Projects:
 ### 📁 Folder Structure:
 cs50-ai-projects/
 ├── degrees/
-│ ├── degrees.py
-│ ├── util.py
-│ └── data files...
+│   ├── degrees.py
+│   ├── util.py
+│   ├── large/
+│   │   └── people.csv
+│   └── small/
 ├── tictactoe/
-│ ├── tictactoe.py
-│ ├── runner.py
-│ └── requirements.txt
+│   ├── tictactoe.py
+│   ├── runner.py
+│   └── requirements.txt
+└── README.md
+
 
 
 ---
